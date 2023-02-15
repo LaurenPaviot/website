@@ -1,0 +1,76 @@
+<title>lauren</title>
+    <link rel="stylesheet" media="screen" type="text/css" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap" rel="stylesheet">
+
+</head>
+
+
+<body>
+
+    <h1>
+        Lauren Paviot
+        <br>design and web development
+    </h1>
+    
+<div class="container1">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <
+    <br>
+    <h3> coding
+    </h3>
+    <br>
+    <p><h3>
+        design
+    </h3></p>
+    >
+</div>
+
+<div class="container2"></div>
+
+<div class="img">
+
+    <img src="images/177506701-32fe20a7-a4f1-494a-a7bf-9be734e0e172.png" alt="Image" style="width: 370px; height: 150px;">
+
+</div>
+
+<div class="img2">
+    <img src="images/evelynn.png" alt="Image" style="width: 370px; height: 150px;">
+</div>
+
+<div class="container3">
+    profil
+</div>
+
+
+<div class="container4">
+    mail
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
